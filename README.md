@@ -1,0 +1,1 @@
+This project is basically about an software from which you can detect someone's eMOTIONS overall it's just an project to help me boost my skill and practice my python language that i studied in my first semester

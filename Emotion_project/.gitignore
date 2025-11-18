@@ -1,0 +1,26 @@
+Python cache files
+
+pycache/
+*.pyc
+
+VSCode specific
+
+.vscode/
+
+Virtual environment
+
+venv/
+.env
+
+Large data files and models
+
+(You don't want to upload your 2.5GB dataset to GitHub!)
+
+data/
+*.pkl
+*.wav
+
+Ignore system files
+
+.DS_Store
+Thumbs.db 

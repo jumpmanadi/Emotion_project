@@ -1,0 +1,9 @@
+customtkinter
+opencv-python
+deepface
+librosa
+sounddevice
+scipy
+numpy
+scikit-learn
+Pillow  
